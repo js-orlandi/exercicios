@@ -1,0 +1,16 @@
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\obj\Debug\net5.0\URO1115Quadrante.csproj.AssemblyReference.cache
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\obj\Debug\net5.0\URO1115Quadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\obj\Debug\net5.0\URO1115Quadrante.AssemblyInfoInputs.cache
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\obj\Debug\net5.0\URO1115Quadrante.AssemblyInfo.cs
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\obj\Debug\net5.0\URO1115Quadrante.csproj.CoreCompileInputs.cache
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\bin\Debug\net5.0\URO1115Quadrante.exe
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\bin\Debug\net5.0\URO1115Quadrante.deps.json
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\bin\Debug\net5.0\URO1115Quadrante.runtimeconfig.json
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\bin\Debug\net5.0\URO1115Quadrante.runtimeconfig.dev.json
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\bin\Debug\net5.0\URO1115Quadrante.dll
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\bin\Debug\net5.0\ref\URO1115Quadrante.dll
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\bin\Debug\net5.0\URO1115Quadrante.pdb
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\obj\Debug\net5.0\URO1115Quadrante.dll
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\obj\Debug\net5.0\ref\URO1115Quadrante.dll
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\obj\Debug\net5.0\URO1115Quadrante.pdb
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URO1115Quadrante\obj\Debug\net5.0\URO1115Quadrante.genruntimeconfig.cache

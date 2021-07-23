@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "URO1115Quadrante/1.0.0": {
+        "runtime": {
+          "URO1115Quadrante.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URO1115Quadrante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

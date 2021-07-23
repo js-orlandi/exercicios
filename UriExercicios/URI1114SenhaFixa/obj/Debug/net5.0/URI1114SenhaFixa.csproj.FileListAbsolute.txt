@@ -1,0 +1,16 @@
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\obj\Debug\net5.0\URI1114SenhaFixa.csproj.AssemblyReference.cache
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\obj\Debug\net5.0\URI1114SenhaFixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\obj\Debug\net5.0\URI1114SenhaFixa.AssemblyInfoInputs.cache
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\obj\Debug\net5.0\URI1114SenhaFixa.AssemblyInfo.cs
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\obj\Debug\net5.0\URI1114SenhaFixa.csproj.CoreCompileInputs.cache
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\bin\Debug\net5.0\URI1114SenhaFixa.exe
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\bin\Debug\net5.0\URI1114SenhaFixa.deps.json
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\bin\Debug\net5.0\URI1114SenhaFixa.runtimeconfig.json
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\bin\Debug\net5.0\URI1114SenhaFixa.runtimeconfig.dev.json
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\bin\Debug\net5.0\URI1114SenhaFixa.dll
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\bin\Debug\net5.0\ref\URI1114SenhaFixa.dll
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\bin\Debug\net5.0\URI1114SenhaFixa.pdb
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\obj\Debug\net5.0\URI1114SenhaFixa.dll
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\obj\Debug\net5.0\ref\URI1114SenhaFixa.dll
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\obj\Debug\net5.0\URI1114SenhaFixa.pdb
+C:\Users\jsorl\Desktop\exercicios\UriExercicios\URI1114SenhaFixa\obj\Debug\net5.0\URI1114SenhaFixa.genruntimeconfig.cache

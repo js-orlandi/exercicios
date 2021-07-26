@@ -1,0 +1,16 @@
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\obj\Debug\net5.0\AlteracaoDeEstoque.csproj.AssemblyReference.cache
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\obj\Debug\net5.0\AlteracaoDeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\obj\Debug\net5.0\AlteracaoDeEstoque.AssemblyInfoInputs.cache
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\obj\Debug\net5.0\AlteracaoDeEstoque.AssemblyInfo.cs
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\obj\Debug\net5.0\AlteracaoDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\bin\Debug\net5.0\AlteracaoDeEstoque.exe
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\bin\Debug\net5.0\AlteracaoDeEstoque.deps.json
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\bin\Debug\net5.0\AlteracaoDeEstoque.runtimeconfig.json
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\bin\Debug\net5.0\AlteracaoDeEstoque.runtimeconfig.dev.json
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\bin\Debug\net5.0\AlteracaoDeEstoque.dll
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\bin\Debug\net5.0\ref\AlteracaoDeEstoque.dll
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\bin\Debug\net5.0\AlteracaoDeEstoque.pdb
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\obj\Debug\net5.0\AlteracaoDeEstoque.dll
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\obj\Debug\net5.0\ref\AlteracaoDeEstoque.dll
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\obj\Debug\net5.0\AlteracaoDeEstoque.pdb
+C:\Users\jsorl\Desktop\exercicios\EncapsulamentoExercicios\AlteracaoDeEstoque\obj\Debug\net5.0\AlteracaoDeEstoque.genruntimeconfig.cache

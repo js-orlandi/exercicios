@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AlteracaoDeEstoque/1.0.0": {
+        "runtime": {
+          "AlteracaoDeEstoque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlteracaoDeEstoque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

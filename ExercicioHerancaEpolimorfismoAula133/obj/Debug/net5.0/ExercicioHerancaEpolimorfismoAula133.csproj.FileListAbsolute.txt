@@ -1,0 +1,16 @@
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\obj\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.csproj.AssemblyReference.cache
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\obj\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\obj\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.AssemblyInfoInputs.cache
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\obj\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.AssemblyInfo.cs
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\obj\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.csproj.CoreCompileInputs.cache
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\bin\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.exe
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\bin\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.deps.json
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\bin\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.runtimeconfig.json
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\bin\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.runtimeconfig.dev.json
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\bin\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.dll
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\bin\Debug\net5.0\ref\ExercicioHerancaEpolimorfismoAula133.dll
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\bin\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.pdb
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\obj\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.dll
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\obj\Debug\net5.0\ref\ExercicioHerancaEpolimorfismoAula133.dll
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\obj\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.pdb
+C:\Users\jsorl\Desktop\exercicios\ExercicioHerancaEpolimorfismoAula133\obj\Debug\net5.0\ExercicioHerancaEpolimorfismoAula133.genruntimeconfig.cache
